@@ -37,10 +37,11 @@ The analysis of the election show that:
 
 ## Election-Audit Summary
 
-This script can be used and modified for any type of election. For example, if you wanted to analyze the results of a federal election rather than a local election, you can change the counties to states. 
+This script can be used and modified for any type of election. For example, if you wanted to analyze the results of a federal election rather than a local election, you can change the counties to states. Similarly, this can be used for a primary election to calculate the number of votes cast per candidate or each political party. 
 
 ## Resources
 - Data Source: election_results.csv
 - Software: Python 3.6.1, Visual Studio Code, 1.53.0
+
 
   
